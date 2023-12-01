@@ -1,0 +1,423 @@
+header{
+color: white;
+background-color: #9b5e82;
+font-family:Georgia, 'Times New Roman', Times, serif;
+height: 65px; 
+text-align: center;
+margin: -20px;
+padding: 0;
+letter-spacing: 4px;
+}
+
+body{
+    background-color: #F7F3F1
+
+    ;
+    margin: 0;
+    padding: 0;
+}
+
+.opçoes {
+    width: 30cm;
+    height: 1.8cm;
+    background-color: #f3bade;
+    color: #000000;
+    border-radius: 100px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    margin-top: 1.5cm;
+    margin-left:1cm;
+    letter-spacing: 2px;
+    word-spacing: 2cm; 
+}
+
+h1{
+    font-family: Georgia, serif;
+    font-size: 75px;
+    margin-left: 3cm;
+    color:#ad4783;
+    letter-spacing: 3px;
+}
+
+.livro1{
+    height:6cm;
+    width: 8cm;
+    margin-top:-7.5cm ;
+    margin-left:20cm;
+    display: flex;
+}
+
+.sm{
+    width: 5cm;
+    height: 1.8cm;
+    background-color: #f3bade;
+    color: #000000;
+    border-radius: 100px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    margin-top: 2cm;
+    margin-left:3cm;
+    letter-spacing: 2px;
+}
+
+.t1{
+    font-family: Georgia, serif;
+    font-size: 18px;
+    margin-left: 17cm;
+    margin-top: -3cm;
+    color:#000000;
+    letter-spacing: 1px;
+    text-align: justify;
+    margin-right: 2cm;
+}
+
+.espaçamento{
+    margin-right: 2cm;
+}
+.espaçamento1{
+    margin-right: 2cm;
+    margin-left: 2cm;
+}
+
+a{ text-decoration: none;
+    color: black;}
+
+.terror1{
+    font-family: Georgia, serif;
+    margin-left: 2cm;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: justify;
+    margin-right: 17cm;
+    margin-top: -0.5cm;
+}
+
+.romance1{
+    font-family: Georgia, serif;
+    margin-left: 2cm;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: justify;
+    margin-right: 17cm;
+    margin-top: -0.5cm;
+}
+
+.sf1{
+    font-family: Georgia, serif;
+    margin-left: 2cm;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: justify;
+    margin-right: 17cm;
+    margin-top: -0.5cm;
+}
+.sus1{
+    font-family: Georgia, serif;
+    margin-left: 2cm;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: justify;
+    margin-right: 17cm;
+    margin-top: -0.5cm;
+}
+
+.fan1{
+    font-family: Georgia, serif;
+    margin-left: 2cm;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: justify;
+    margin-right: 17cm;
+    margin-top: -0.5cm;
+}
+
+.tt{    
+    font-family: Georgia, serif;
+    font-size: 75px;
+    margin-left: 5cm;
+    color:#ad4783;
+    letter-spacing: 3px;
+
+}
+.sf{    
+    font-family: Georgia, serif;
+    font-size: 75px;
+    margin-left: 5.5cm;
+    color:#ad4783;
+    letter-spacing: 3px;
+    display: flex;
+
+}
+.rom{    
+    font-family: Georgia, serif;
+    font-size: 75px;
+    margin-left: 3.5cm;
+    color:#ad4783;
+    letter-spacing: 3px;
+
+}
+
+.sus{    
+    font-family: Georgia, serif;
+    font-size: 75px;
+    margin-left: 3.5cm;
+    color:#ad4783;
+    letter-spacing: 3px;
+}
+
+ .fan{    
+        font-family: Georgia, serif;
+        font-size: 75px;
+        margin-left: 3.5cm;
+        color:#ad4783;
+        letter-spacing: 3px;
+}
+
+.livro2{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: -11cm;
+    display: flex;
+}
+
+.livro3{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro4{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro5{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: 1cm;
+    display: flex;
+}
+
+.livro6{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro7{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro8{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: -11cm;
+    display: flex;
+}
+
+.livro9{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro10{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro11{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: 1cm;
+    display: flex;
+}
+
+.livro12{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro13{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro14{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: -10cm;
+    display: flex;
+}
+
+.livro15{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro16{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro17{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: 1cm;
+    display: flex;
+}
+
+.livro18{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro19{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro20{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: -11cm;
+    display: flex;
+}
+
+.livro21{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro22{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro23{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: 1cm;
+    display: flex;
+}
+
+.livro24{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro25{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro26{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: -11.5cm;
+    display: flex;
+}
+
+.livro27{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro28{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro29{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 18cm;
+    margin-top: 1cm;
+    display: flex;
+}
+
+.livro30{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 22.5cm;
+    margin-top: -5cm;
+    display: flex;
+}
+
+.livro31{
+    width: 3cm;
+    height: 5cm;
+    margin-left: 27cm;
+    margin-top: -5cm;
+    display: flex;
+}
